@@ -1,1 +1,1 @@
-To simulate registry run'StudentRegistrySimulator'
+To simulate registry run'StudentRegistrySimulator.java'
